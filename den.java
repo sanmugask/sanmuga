@@ -12,5 +12,6 @@ public class den {
     average=total/5;
     System.out.println("total : "+total);
     System.out.println("average : "+average);
+    
     }
 }

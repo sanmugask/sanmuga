@@ -1,10 +1,9 @@
 import java.util.Scanner;
-public class forrlloo {
+public class star { 
     public static void main(String[] args){
         Scanner sc =new Scanner(System.in);
             int n =sc.nextInt();
             int j;
-            sc.close();
           for(int i=1;i<=n;i++){
             for(j=1;j<=i;j++){
             
@@ -14,5 +13,7 @@ public class forrlloo {
 
         }
     }
+    
+}
     
 }
